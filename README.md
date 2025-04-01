@@ -41,6 +41,6 @@ Understanding these **discrepancies** is critical for **Windows forensic investi
 
 ## 🖋️ Author  
 
-**🔹 Name:** Hun13r  
+
 **🔹 Company:** Greaton Forensics  
 **🔹 Email:** [admin@greaton.co.uk](mailto:admin@greaton.co.uk)  
